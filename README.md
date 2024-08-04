@@ -17,7 +17,7 @@ The dataset consisted of one table including information about customers, store 
 - 
 
 ### Performance Dashboard:
-The Tableau Public Dashboard can be viewed <a href=https://public.tableau.com/views/dataco_supply_chain_analysis/DataCoDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link>here</a>.
+The Tableau Public Dashboard can be viewed <a href=https://public.tableau.com/views/dataco_supply_chain_analysis/DataCoDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link>here<\a>.
 
 ![DataCo Performance Dashboard](dashboard.png)
 
