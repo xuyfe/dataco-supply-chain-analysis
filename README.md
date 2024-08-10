@@ -7,6 +7,7 @@
 - **Presentation**
  
 ## Goal:
+*DataCo Global is a fictitious company.*
 The goal of this project is to investigate the operational efficiency of supply chains used by DataCo Global to surface recommendations on delivery delay reductions.
 
 ## Dataset Structure:
